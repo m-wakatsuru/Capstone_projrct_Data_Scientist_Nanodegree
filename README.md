@@ -29,5 +29,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Feel free to use the code here as you would like! 
+Feel free to use the code here as you would like!  
 https://medium.com/@m.wakatsuru/capstone-project-32c3a90851d6
